@@ -1,0 +1,14 @@
+onece when new laptop purchase
+step1: git software download
+step2: Open new or existing folder cmd/ terminal
+step3: > git config --global user.nam "Umar71-Developer"
+step4: > git config --global user.email "umarhayyat710000@gmail.com"
+
+At every new project
+step5: > git init
+every new changes
+step6: > git add -A
+step7: > git add commit -m "while loop added"
+step8: > git push origin master
+
+ 
