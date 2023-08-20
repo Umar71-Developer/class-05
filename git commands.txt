@@ -1,7 +1,7 @@
 onece when new laptop purchase
 step1: git software download
 step2: Open new or existing folder cmd/ terminal
-step3: > git config --global user.nam "Umar71-Developer"
+step3: > git config --global user.name "Umar71-Developer"
 step4: > git config --global user.email "umarhayyat710000@gmail.com"
 
 At every new project
